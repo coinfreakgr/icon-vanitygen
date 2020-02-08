@@ -29,6 +29,12 @@ To look for a vanity address, simply add an input variable:
 $ iconvanity -i dadb0d
 ```
 
+Local use:
+```
+$ node index.js -i abc12
+```
+
+
 ## Notes
 
 Since ICON addresses are Hexes, only numbers 0-9 and letters a-f can be used
